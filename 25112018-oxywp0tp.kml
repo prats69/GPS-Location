@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Placemark>
+<name>Test KML</name>
+<description>for fountainhead school</description>
+<Point>
+<coordinates>72.75253772735596,21.244622389284597,0</coordinates>
+<coordinates>72.75352911662571,21.24655932390061,0</coordinates>
+</Point>
+</Placemark>
+</kml>
